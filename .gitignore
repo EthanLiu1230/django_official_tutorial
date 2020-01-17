@@ -1,3 +1,4 @@
 # Project exclude paths
 /venv/
 blog/imgs/
+.idea
